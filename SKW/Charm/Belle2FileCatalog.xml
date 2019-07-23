@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileCatalog>
+  <File>
+    <LFN>/gpfs/home/belle2/djaffe/SKW/Charm/DstartoD0pi_D0toKspipipi0.mdst.root</LFN>
+    <PFN>/gpfs/home/belle2/djaffe/SKW/Charm/DstartoD0pi_D0toKspipipi0.mdst.root</PFN>
+    <ExperimentLow>1003</ExperimentLow>
+    <RunLow>0</RunLow>
+    <EventLow>1</EventLow>
+    <ExperimentHigh>1003</ExperimentHigh>
+    <RunHigh>0</RunHigh>
+    <EventHigh>100</EventHigh>
+  </File>
+  <File>
+    <LFN>/gpfs/home/belle2/djaffe/SKW/Charm/DstartoD0pi_D0toKspipipi0_1000.mdst.root</LFN>
+    <PFN>/gpfs/home/belle2/djaffe/SKW/Charm/DstartoD0pi_D0toKspipipi0_1000.mdst.root</PFN>
+    <ExperimentLow>1003</ExperimentLow>
+    <RunLow>0</RunLow>
+    <EventLow>1</EventLow>
+    <ExperimentHigh>1003</ExperimentHigh>
+    <RunHigh>0</RunHigh>
+    <EventHigh>1000</EventHigh>
+  </File>
+</FileCatalog>

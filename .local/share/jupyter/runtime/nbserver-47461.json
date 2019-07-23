@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/gpfs/home/belle2/djaffe",
+  "password": false,
+  "pid": 47461,
+  "port": 8049,
+  "secure": false,
+  "token": "8aee0b8ebf05c4d3a0977ea9de91c16dc4e545c3f63f6889",
+  "url": "http://localhost:8049/"
+}
