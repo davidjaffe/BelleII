@@ -304,3 +304,61 @@ ls
 less dstar_d0pi_Kspipipi0.dec
 #1560593365
 git commit -a -m"some mods to particle lists that seem to give higher effy"
+#1563914372
+ls
+#1563914376
+cd SKW
+#1563914377
+ls
+#1563914385
+ls Charm/
+#1563914631
+cd ..
+#1563914637
+git init
+#1563914652
+git pull https://github.com/davidjaffe/BelleII.git
+#1563914683
+git add .
+#1563914720
+git commit -m 'initial commit of results of SKW June 2019'
+#1563914745
+git remote add origin https://github.com/davidjaffe/BelleII.git
+#1563914752
+git pull origin master
+#1563914762
+history
+#1563915133
+git push origin master
+#1563915154
+git remote add origin https://github.com/davidjaffe/BelleII.git
+#1563915157
+git push origin master
+#1563915174
+ls
+#1563915182
+ls SKW
+#1563915185
+git status
+#1563915199
+git add SKW
+#1563915211
+git commit -m 'commit SKW'
+#1563915235
+git commit -a
+#1563915253
+echo "something" > something
+#1563915265
+git add something
+#1563915277
+git commit -m'add something'
+#1563915282
+git push origin master
+#1563915356
+echo https://github.com/davidjaffe/BelleII.git
+#1563915365
+git remote add origin https://github.com/davidjaffe/BelleII.git
+#1563915373
+git pull origin master
+#1563915384
+git push origin master
